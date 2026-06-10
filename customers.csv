@@ -1,0 +1,501 @@
+customer_id,full_name,age,gender,city,state,join_date,last_purchase_date,total_purchases,total_spent,avg_order_value,loyalty_points,preferred_category,days_since_join,days_since_last_purchase,customer_tier
+CUST0001,Patricia Mitchell,44,Female,San Francisco,CA,2021-04-02,2024-03-12,8,296.56,37.07,343,Clothing,1369,294,Budget
+CUST0002,Robert Johnson,36,Male,Columbus,OH,2024-08-29,2024-11-01,10,221.2,22.12,194,Books,124,60,New
+CUST0003,Emma Moore,46,Male,Austin,TX,2023-11-30,2024-08-04,83,8208.7,98.9,7273,Beauty & Health,397,149,Loyal
+CUST0004,Ronald Miller,57,Female,Washington,DC,2023-05-21,2024-05-15,45,7297.2,162.16,7402,Books,590,230,Loyal
+CUST0005,Emily Green,34,Other,Boston,MA,2023-03-28,2024-04-08,77,10934.0,142.0,9743,Home & Garden,644,267,Premium
+CUST0006,Sandra Miller,34,Female,Seattle,WA,2022-07-17,2023-06-07,31,1153.2,37.2,1086,Home & Garden,898,573,At-Risk
+CUST0007,Debra Adams,58,Male,Raleigh,NC,2023-07-24,2024-03-28,22,861.74,39.17,745,Books,526,278,Budget
+CUST0008,Samantha Hall,47,Other,Charlotte,NC,2023-11-03,2024-06-15,13,657.93,50.61,534,Beauty & Health,424,199,Regular
+CUST0009,William Wilson,31,Other,Oklahoma City,OK,2021-03-11,2024-12-01,41,2690.01,65.61,3136,Toys & Games,1391,30,Regular
+CUST0010,Sarah Thomas,45,Other,Kansas City,MO,2023-01-08,2024-05-14,114,13677.72,119.98,14134,Beauty & Health,723,231,Loyal
+CUST0011,Sarah Allen,31,Female,Philadelphia,PA,2024-03-27,2024-01-25,54,4395.6,81.4,3797,Books,279,341,Loyal
+CUST0012,Deborah Harris,31,Other,Milwaukee,WI,2024-11-13,2024-11-29,9,799.74,88.86,643,Clothing,48,32,New
+CUST0013,Stephen Carter,41,Female,El Paso,TX,2020-08-16,2024-05-30,18,293.94,16.33,235,Home & Garden,1598,215,Budget
+CUST0014,Heather Lopez,18,Other,San Antonio,TX,2021-09-03,2023-06-19,40,2826.8,70.67,2434,Groceries,1215,561,At-Risk
+CUST0015,Diane King,18,Male,Raleigh,NC,2024-09-21,2024-11-22,1,28.95,28.95,27,Home & Garden,101,39,New
+CUST0016,Steven Torres,30,Male,Philadelphia,PA,2024-02-07,2024-09-05,48,9452.16,196.92,9575,Groceries,328,117,Loyal
+CUST0017,Gary Scott,24,Male,Indianapolis,IN,2022-12-16,2024-11-06,94,18330.94,195.01,21475,Sports & Outdoors,746,55,Loyal
+CUST0018,Stephanie Nelson,42,Other,Boston,MA,2022-06-16,2024-09-21,19,281.96,14.84,250,Beauty & Health,929,101,Budget
+CUST0019,Larry Anderson,26,Other,Charlotte,NC,2020-01-15,2024-02-06,75,17241.75,229.89,20037,Beauty & Health,1812,329,Premium
+CUST0020,Steven Moore,19,Other,Tucson,AZ,2021-03-14,2024-10-03,93,43450.53,467.21,50096,Toys & Games,1388,89,Premium
+CUST0021,Gary Clark,57,Male,San Antonio,TX,2020-07-17,2024-12-03,95,10412.0,109.6,10041,Electronics,1628,28,Loyal
+CUST0022,Gregory Miller,35,Male,Louisville,KY,2024-01-31,2024-06-22,8,159.6,19.95,139,Toys & Games,335,192,Budget
+CUST0023,Lisa Moore,38,Female,San Francisco,CA,2024-11-25,2024-02-08,96,16619.52,173.12,18985,Clothing,36,327,Loyal
+CUST0024,Anna Smith,19,Male,San Francisco,CA,2020-12-06,2024-07-27,184,64593.2,351.05,74014,Electronics,1486,157,Premium
+CUST0025,James Harris,30,Female,Milwaukee,WI,2021-08-07,2024-08-04,111,16945.26,152.66,16854,Sports & Outdoors,1242,149,Loyal
+CUST0026,Linda Nguyen,39,Other,Mesa,AZ,2020-05-04,2024-06-09,13,448.63,34.51,444,Groceries,1702,205,Regular
+CUST0027,Angela Garcia,23,Male,Phoenix,AZ,2023-05-03,2024-02-04,120,37657.2,313.81,44308,Sports & Outdoors,608,331,Premium
+CUST0028,Jennifer Flores,42,Male,Portland,OR,2024-12-16,2024-12-26,5,181.7,36.34,197,Sports & Outdoors,15,5,New
+CUST0029,Thomas Nelson,30,Other,Nashville,TN,2022-07-25,2024-06-10,14,431.76,30.84,452,Clothing,890,204,Regular
+CUST0030,Margaret Allen,34,Female,Dallas,TX,2021-12-15,2024-02-05,122,36279.14,297.37,31312,Home & Garden,1112,330,Premium
+CUST0031,Katherine King,30,Male,Kansas City,MO,2024-09-15,2024-12-08,2,190.22,95.11,162,Clothing,107,23,New
+CUST0032,Maria Scott,62,Male,Seattle,WA,2021-07-31,2023-04-11,21,1655.22,78.82,1458,Home & Garden,1249,630,At-Risk
+CUST0033,Paul Brown,37,Male,Las Vegas,NV,2024-09-09,2024-09-14,1,46.68,46.68,39,Home & Garden,113,108,New
+CUST0034,Ryan Scott,24,Other,Las Vegas,NV,2023-02-22,2024-01-05,54,3808.62,70.53,4392,Groceries,678,361,Loyal
+CUST0035,Melissa Nguyen,48,Other,San Jose,CA,2024-10-19,2024-11-04,1,44.66,44.66,51,Electronics,73,57,New
+CUST0036,Mark Baker,22,Male,San Antonio,TX,2021-12-25,2023-02-14,17,1605.31,94.43,1436,Groceries,1102,686,At-Risk
+CUST0037,Matthew Clark,40,Male,Jacksonville,FL,2021-11-11,2023-01-06,23,1035.23,45.01,1154,Clothing,1146,725,At-Risk
+CUST0038,Robert Walker,18,Male,Fort Worth,TX,2024-07-30,2024-08-23,32,1839.04,57.47,2056,Sports & Outdoors,154,130,Regular
+CUST0039,Samuel Gonzalez,20,Female,El Paso,TX,2021-07-24,2024-02-05,75,8187.0,109.16,8217,Beauty & Health,1256,330,Loyal
+CUST0040,Joseph Taylor,40,Male,Omaha,NE,2021-06-27,2021-08-05,14,976.36,69.74,916,Beauty & Health,1283,1244,At-Risk
+CUST0041,Angela Davis,47,Female,Atlanta,GA,2021-01-24,2024-05-10,12,1125.48,93.79,901,Sports & Outdoors,1437,235,Regular
+CUST0042,William Nelson,40,Female,Oklahoma City,OK,2023-09-20,2024-03-04,29,2193.56,75.64,2339,Beauty & Health,468,302,Regular
+CUST0043,Emily Scott,36,Male,Fort Worth,TX,2022-05-11,2024-12-06,34,3092.64,90.96,3590,Home & Garden,965,25,Regular
+CUST0044,James Martin,34,Female,Columbus,OH,2022-05-30,2024-10-23,48,4268.16,88.92,4208,Toys & Games,946,69,Regular
+CUST0045,Angela Walker,18,Other,Austin,TX,2023-09-11,2024-02-13,14,428.68,30.62,451,Beauty & Health,477,322,Budget
+CUST0046,Alexander Thomas,28,Other,Nashville,TN,2021-04-05,2024-04-11,58,3678.36,63.42,3302,Toys & Games,1366,264,Loyal
+CUST0047,Tyler Jones,32,Female,Portland,OR,2024-12-09,2024-12-27,4,309.88,77.47,295,Books,22,4,New
+CUST0048,Katherine Hall,51,Male,San Antonio,TX,2024-05-13,2024-08-05,68,5754.16,84.62,6808,Toys & Games,232,148,Loyal
+CUST0049,Ashley Davis,42,Female,Dallas,TX,2024-06-29,2024-08-25,195,115867.05,594.19,120290,Toys & Games,185,128,Premium
+CUST0050,Dennis Allen,18,Female,Kansas City,MO,2024-10-23,2024-11-12,8,448.08,56.01,493,Home & Garden,69,49,New
+CUST0051,Jonathan Young,42,Other,San Francisco,CA,2021-07-16,2024-08-13,7,269.78,38.54,241,Beauty & Health,1264,140,Budget
+CUST0052,Anna Garcia,32,Male,San Jose,CA,2021-04-18,2024-07-15,19,1778.02,93.58,1468,Books,1353,169,Regular
+CUST0053,Cynthia Clark,29,Male,Columbus,OH,2024-09-01,2024-08-03,34,3788.96,111.44,3916,Electronics,121,150,Regular
+CUST0054,Heather Torres,45,Female,Albuquerque,NM,2020-01-13,2022-01-02,27,2200.77,81.51,2511,Books,1814,1094,At-Risk
+CUST0055,Jerry Wright,51,Other,Charlotte,NC,2024-11-02,2024-11-16,5,274.35,54.87,222,Beauty & Health,59,45,New
+CUST0056,Stephanie Campbell,50,Male,Milwaukee,WI,2020-09-18,2024-11-14,22,243.76,11.08,233,Electronics,1565,47,Budget
+CUST0057,Jeffrey Rodriguez,27,Female,Jacksonville,FL,2020-04-12,2024-05-13,88,9313.04,105.83,9144,Beauty & Health,1724,232,Loyal
+CUST0058,Ronald Moore,33,Female,Indianapolis,IN,2024-09-05,2024-02-11,20,215.6,10.78,218,Beauty & Health,117,324,Budget
+CUST0059,William Roberts,42,Other,Chicago,IL,2024-03-24,2024-01-16,71,6241.61,87.91,5044,Groceries,282,350,Loyal
+CUST0060,Gary Nelson,50,Male,Atlanta,GA,2021-03-22,2024-08-26,72,12050.64,167.37,10449,Clothing,1380,127,Loyal
+CUST0061,Daniel Martin,31,Male,Omaha,NE,2020-02-22,2024-06-08,23,853.07,37.09,1009,Books,1774,206,Budget
+CUST0062,Betty Jones,35,Other,San Francisco,CA,2020-07-27,2022-04-05,15,1270.8,84.72,1304,Electronics,1618,1001,At-Risk
+CUST0063,Jeffrey Nelson,23,Female,Phoenix,AZ,2022-11-02,2024-11-27,31,965.34,31.14,934,Toys & Games,790,34,Regular
+CUST0064,Timothy Green,22,Female,San Jose,CA,2022-06-10,2024-03-31,106,20688.02,195.17,18785,Toys & Games,935,275,Loyal
+CUST0065,Janet Nguyen,48,Female,Oklahoma City,OK,2024-09-01,2024-12-16,2,84.62,42.31,82,Toys & Games,121,15,New
+CUST0066,Christine Harris,55,Female,Los Angeles,CA,2024-11-04,2024-12-28,6,207.3,34.55,183,Home & Garden,57,3,New
+CUST0067,Brandon Hall,37,Female,Kansas City,MO,2020-01-21,2024-09-21,22,829.62,37.71,902,Toys & Games,1806,101,Regular
+CUST0068,Steven Hall,51,Female,Tucson,AZ,2024-10-23,2024-10-25,2,87.08,43.54,83,Sports & Outdoors,69,67,New
+CUST0069,Scott White,42,Female,Kansas City,MO,2022-12-23,2024-06-25,37,4428.9,119.7,4518,Beauty & Health,739,189,Regular
+CUST0070,Andrew Martin,29,Female,Charlotte,NC,2020-09-04,2024-04-08,15,221.7,14.78,224,Groceries,1579,267,Budget
+CUST0071,Jerry Walker,42,Female,Omaha,NE,2024-04-05,2024-09-25,116,11555.92,99.62,9709,Sports & Outdoors,270,97,Loyal
+CUST0072,Timothy Lopez,57,Female,New York,NY,2023-12-21,2024-09-30,18,984.42,54.69,1171,Home & Garden,376,92,Regular
+CUST0073,Thomas Green,37,Female,San Antonio,TX,2024-11-22,2024-01-07,23,491.51,21.37,487,Beauty & Health,39,359,Budget
+CUST0074,Michael Taylor,58,Female,San Diego,CA,2024-08-10,2024-02-03,91,11724.44,128.84,12085,Electronics,143,332,Loyal
+CUST0075,Justin Martin,18,Male,San Francisco,CA,2020-08-30,2024-10-12,93,13473.84,144.88,15040,Sports & Outdoors,1584,80,Loyal
+CUST0076,Ronald Lewis,48,Female,Nashville,TN,2024-10-27,2024-10-28,18,399.96,22.22,419,Clothing,65,64,Budget
+CUST0077,Mark Green,39,Male,Indianapolis,IN,2020-06-15,2021-05-02,23,874.92,38.04,726,Electronics,1660,1339,At-Risk
+CUST0078,Patrick Hill,34,Female,Denver,CO,2020-03-07,2024-04-28,28,2621.64,93.63,2834,Toys & Games,1760,247,Regular
+CUST0079,Sandra Taylor,39,Other,Omaha,NE,2023-09-16,2024-04-11,168,29415.12,175.09,26177,Groceries,472,264,Premium
+CUST0080,Charles Jones,18,Male,Austin,TX,2021-09-21,2023-05-23,26,1506.44,57.94,1487,Home & Garden,1197,588,At-Risk
+CUST0081,Andrew Allen,35,Other,Tucson,AZ,2022-06-15,2024-02-11,24,278.16,11.59,270,Beauty & Health,930,324,Budget
+CUST0082,Patricia Garcia,42,Male,Atlanta,GA,2024-11-28,2024-11-29,5,330.5,66.1,365,Groceries,33,32,New
+CUST0083,Katherine Lewis,57,Female,Jacksonville,FL,2024-11-27,2024-12-24,8,780.16,97.52,770,Books,34,7,New
+CUST0084,Christine Miller,31,Male,El Paso,TX,2022-04-23,2024-12-21,41,2293.54,55.94,2701,Electronics,983,10,Regular
+CUST0085,Kevin Taylor,27,Female,San Diego,CA,2024-10-12,2024-12-16,1,72.61,72.61,73,Books,80,15,New
+CUST0086,Jonathan White,31,Other,Tucson,AZ,2023-07-04,2024-08-14,73,15892.83,217.71,16205,Home & Garden,546,139,Premium
+CUST0087,Rachel Young,49,Male,Los Angeles,CA,2023-07-14,2024-11-07,25,2347.0,93.88,2169,Electronics,536,54,Regular
+CUST0088,Elizabeth Anderson,42,Male,Milwaukee,WI,2024-07-31,2024-09-08,8,756.88,94.61,693,Home & Garden,153,114,New
+CUST0089,Kathleen Walker,31,Male,Milwaukee,WI,2023-02-02,2024-03-15,34,1603.1,47.15,1666,Groceries,698,291,Regular
+CUST0090,Kimberly Roberts,44,Female,El Paso,TX,2022-11-05,2023-01-12,8,369.68,46.21,339,Toys & Games,787,719,At-Risk
+CUST0091,Laura Wright,39,Female,Washington,DC,2021-11-11,2023-05-30,32,1892.8,59.15,1757,Sports & Outdoors,1146,581,At-Risk
+CUST0092,Steven Torres,50,Female,Charlotte,NC,2022-04-21,2022-05-13,28,2263.8,80.85,2449,Books,985,963,At-Risk
+CUST0093,Samuel Adams,28,Male,Tucson,AZ,2020-03-16,2024-03-05,42,4908.96,116.88,4579,Clothing,1751,301,Regular
+CUST0094,Ryan Miller,33,Other,Milwaukee,WI,2020-02-01,2020-11-22,34,3070.88,90.32,3648,Clothing,1795,1500,At-Risk
+CUST0095,Dorothy Perez,32,Other,Louisville,KY,2024-12-14,2024-12-16,6,529.14,88.19,605,Books,17,15,New
+CUST0096,Frank Rivera,18,Female,Mesa,AZ,2020-03-14,2020-08-01,23,1663.82,72.34,1943,Sports & Outdoors,1753,1613,At-Risk
+CUST0097,Sharon Miller,41,Other,San Antonio,TX,2022-06-27,2024-03-26,14,645.96,46.14,528,Electronics,918,280,Budget
+CUST0098,Melissa Ramirez,41,Male,San Francisco,CA,2022-12-23,2024-07-29,46,4202.56,91.36,3664,Groceries,739,155,Regular
+CUST0099,Ronald Flores,38,Other,San Francisco,CA,2022-10-16,2024-10-25,96,22219.2,231.45,23444,Toys & Games,807,67,Premium
+CUST0100,Mary Robinson,34,Female,Mesa,AZ,2020-11-19,2024-02-07,38,4372.66,115.07,5225,Home & Garden,1503,328,Regular
+CUST0101,Jeffrey Hall,19,Female,Milwaukee,WI,2024-09-27,2024-06-03,11,549.67,49.97,627,Clothing,95,211,Budget
+CUST0102,Pamela Thompson,32,Other,Denver,CO,2023-12-03,2024-05-31,42,8270.22,196.91,8793,Home & Garden,394,214,Loyal
+CUST0103,Debra Roberts,33,Other,Houston,TX,2023-05-26,2024-09-11,133,65483.88,492.36,58414,Beauty & Health,585,111,Premium
+CUST0104,Anthony Flores,27,Female,Dallas,TX,2023-07-10,2024-02-19,120,18058.8,150.49,16678,Toys & Games,540,316,Loyal
+CUST0105,Timothy Campbell,35,Male,Philadelphia,PA,2021-08-27,2024-06-16,166,33915.46,204.31,28925,Beauty & Health,1222,198,Premium
+CUST0106,Andrew Hernandez,43,Female,Albuquerque,NM,2024-09-14,2024-12-18,6,506.04,84.34,499,Clothing,108,13,New
+CUST0107,Donald Baker,62,Other,Louisville,KY,2024-09-28,2024-10-12,86,6247.04,72.64,5983,Home & Garden,94,80,Loyal
+CUST0108,Jacob White,40,Other,Indianapolis,IN,2024-11-27,2024-12-21,6,172.02,28.67,153,Electronics,34,10,New
+CUST0109,Brenda Lee,41,Other,Charlotte,NC,2024-12-13,2024-12-15,8,742.0,92.75,683,Books,18,16,New
+CUST0110,Jennifer Williams,37,Female,Tucson,AZ,2020-08-25,2024-02-19,70,12895.4,184.22,11016,Toys & Games,1589,316,Loyal
+CUST0111,Maria Hall,18,Other,Portland,OR,2023-04-17,2024-03-20,36,3201.84,88.94,3629,Books,624,286,Regular
+CUST0112,Kimberly Williams,37,Other,Boston,MA,2021-03-20,2022-06-17,36,3466.44,96.29,3959,Clothing,1382,928,At-Risk
+CUST0113,Melissa Wright,38,Other,Washington,DC,2020-05-04,2022-07-28,25,981.0,39.24,832,Toys & Games,1702,887,At-Risk
+CUST0114,Margaret Adams,70,Other,Raleigh,NC,2020-02-13,2024-01-26,82,7716.2,94.1,6561,Sports & Outdoors,1783,340,Loyal
+CUST0115,Heather Scott,35,Male,Omaha,NE,2021-03-18,2024-04-29,144,70804.8,491.7,78979,Electronics,1384,246,Premium
+CUST0116,Charles Rodriguez,41,Other,Indianapolis,IN,2024-06-23,2024-03-30,17,1521.5,89.5,1232,Electronics,191,276,Regular
+CUST0117,Aaron Thomas,37,Other,Oklahoma City,OK,2020-02-02,2024-03-30,26,902.72,34.72,990,Clothing,1794,276,Regular
+CUST0118,Gary Lewis,22,Female,Fresno,CA,2023-04-30,2024-02-25,19,572.85,30.15,674,Electronics,611,310,Budget
+CUST0119,Samuel King,52,Female,Milwaukee,WI,2023-08-10,2024-01-16,6,299.64,49.94,341,Books,509,350,Budget
+CUST0120,Nicholas Rivera,47,Female,Phoenix,AZ,2020-06-14,2024-06-13,24,382.32,15.93,325,Beauty & Health,1661,201,Budget
+CUST0121,Brandon King,48,Female,Milwaukee,WI,2022-11-01,2024-11-05,37,1440.41,38.93,1556,Sports & Outdoors,791,56,Regular
+CUST0122,Sandra Clark,26,Female,Milwaukee,WI,2022-03-27,2024-07-31,16,930.08,58.13,860,Home & Garden,1010,153,Regular
+CUST0123,Karen Baker,56,Female,Phoenix,AZ,2020-07-05,2024-02-13,15,1033.05,68.87,1134,Beauty & Health,1640,322,Regular
+CUST0124,Brenda Brown,19,Other,Kansas City,MO,2021-11-06,2022-03-11,34,1751.68,51.52,1867,Books,1151,1026,At-Risk
+CUST0125,Dennis Brown,45,Female,Raleigh,NC,2021-10-01,2022-09-26,14,956.76,68.34,846,Toys & Games,1187,827,At-Risk
+CUST0126,Susan Thompson,66,Other,Boston,MA,2020-08-23,2024-05-22,113,10357.58,91.66,10063,Electronics,1591,223,Loyal
+CUST0127,Samuel Hall,25,Female,Los Angeles,CA,2024-08-16,2024-10-24,5,468.6,93.72,440,Groceries,137,68,New
+CUST0128,Justin Nelson,30,Female,Phoenix,AZ,2020-10-17,2022-11-14,9,286.92,31.88,290,Books,1536,778,At-Risk
+CUST0129,Carol Hernandez,39,Female,Nashville,TN,2024-01-17,2024-06-15,46,3848.36,83.66,4438,Groceries,349,199,Regular
+CUST0130,Helen Brown,31,Other,Philadelphia,PA,2021-07-11,2024-08-14,94,12031.06,127.99,11752,Home & Garden,1269,139,Loyal
+CUST0131,Angela Davis,18,Female,Las Vegas,NV,2020-08-15,2024-05-25,115,14734.95,128.13,15720,Electronics,1599,220,Loyal
+CUST0132,Brandon Brown,38,Male,Columbus,OH,2021-09-09,2024-04-18,57,9517.86,166.98,8716,Clothing,1209,257,Loyal
+CUST0133,Maria Ramirez,24,Male,Dallas,TX,2022-02-17,2024-09-29,118,42495.34,360.13,48161,Beauty & Health,1048,93,Premium
+CUST0134,Jerry Williams,44,Female,Los Angeles,CA,2022-07-30,2024-02-09,140,55490.4,396.36,57119,Books,885,326,Premium
+CUST0135,Stephanie Johnson,26,Female,Austin,TX,2024-06-29,2024-11-12,39,4090.32,104.88,4777,Clothing,185,49,Regular
+CUST0136,Susan Thomas,58,Female,Omaha,NE,2022-03-31,2024-09-25,15,984.3,65.62,909,Beauty & Health,1006,97,Regular
+CUST0137,Diane Hernandez,27,Male,Fresno,CA,2023-07-20,2024-02-28,107,14058.73,131.39,16341,Beauty & Health,530,307,Loyal
+CUST0138,Gregory Martinez,33,Male,San Antonio,TX,2020-10-26,2024-05-11,22,1003.42,45.61,864,Clothing,1527,234,Regular
+CUST0139,Tyler Green,48,Female,Milwaukee,WI,2024-03-25,2024-10-15,114,14004.9,122.85,16380,Beauty & Health,281,77,Loyal
+CUST0140,Frank Lee,21,Male,Baltimore,MD,2020-05-19,2023-01-04,36,2604.6,72.35,2913,Electronics,1687,727,At-Risk
+CUST0141,Barbara Martin,40,Female,Baltimore,MD,2020-03-18,2024-01-30,33,3460.05,104.85,2874,Clothing,1749,336,Regular
+CUST0142,Eric Harris,54,Female,Omaha,NE,2024-11-19,2024-11-21,8,741.76,92.72,763,Sports & Outdoors,42,40,New
+CUST0143,Gary Allen,18,Male,Houston,TX,2022-07-11,2024-02-22,31,3670.71,118.41,3060,Groceries,904,313,Regular
+CUST0144,Jack Lewis,40,Female,Sacramento,CA,2022-12-06,2024-11-08,100,29467.0,294.67,34393,Books,756,53,Premium
+CUST0145,Carol Baker,41,Other,Houston,TX,2024-06-04,2024-11-19,31,1113.83,35.93,933,Books,210,42,Regular
+CUST0146,Dennis Nelson,48,Other,San Jose,CA,2021-11-13,2024-02-11,47,4217.31,89.73,4920,Home & Garden,1144,324,Regular
+CUST0147,Rachel Nelson,21,Female,Dallas,TX,2020-06-22,2022-03-18,32,2344.32,73.26,2183,Groceries,1653,1019,At-Risk
+CUST0148,Jerry Baker,20,Other,Philadelphia,PA,2023-08-16,2024-12-09,18,546.12,30.34,440,Home & Garden,503,22,Budget
+CUST0149,Margaret Perez,44,Female,Fort Worth,TX,2021-04-08,2024-03-11,59,4177.2,70.8,4752,Clothing,1363,295,Loyal
+CUST0150,Anna Mitchell,41,Other,Chicago,IL,2024-12-17,2024-12-22,10,304.8,30.48,289,Groceries,14,9,New
+CUST0151,Patrick Roberts,41,Other,Austin,TX,2024-01-16,2024-08-12,45,5288.4,117.52,5661,Sports & Outdoors,350,141,Loyal
+CUST0152,Raymond Jackson,42,Other,Baltimore,MD,2021-04-24,2022-10-22,23,1108.83,48.21,1245,Toys & Games,1347,801,At-Risk
+CUST0153,Anthony White,29,Other,Atlanta,GA,2022-06-21,2023-02-12,26,2167.36,83.36,2169,Books,924,688,At-Risk
+CUST0154,Betty Hill,41,Male,Indianapolis,IN,2020-04-16,2022-12-26,31,2064.29,66.59,1736,Clothing,1720,736,At-Risk
+CUST0155,Heather Hernandez,41,Female,Baltimore,MD,2022-11-17,2024-03-16,37,1415.25,38.25,1647,Toys & Games,775,290,Regular
+CUST0156,Patricia Clark,28,Male,Louisville,KY,2022-10-25,2023-01-28,23,1241.08,53.96,1033,Sports & Outdoors,798,703,At-Risk
+CUST0157,Richard Rivera,62,Other,El Paso,TX,2024-06-08,2024-03-15,95,13147.05,138.39,15342,Toys & Games,206,291,Premium
+CUST0158,Sarah Carter,44,Other,Albuquerque,NM,2022-07-07,2024-11-11,5,231.15,46.23,186,Sports & Outdoors,908,50,Budget
+CUST0159,Larry Campbell,22,Other,Sacramento,CA,2022-05-16,2022-07-11,26,1113.32,42.82,944,Sports & Outdoors,960,904,At-Risk
+CUST0160,Helen Robinson,46,Male,San Diego,CA,2024-09-09,2024-09-12,48,3755.52,78.24,3953,Sports & Outdoors,113,110,Regular
+CUST0161,Emily Ramirez,25,Male,Washington,DC,2021-05-07,2024-10-19,18,314.82,17.49,336,Beauty & Health,1334,73,Budget
+CUST0162,Shirley Wright,48,Other,Fresno,CA,2023-02-08,2024-01-11,159,85732.8,539.2,70079,Books,692,355,Premium
+CUST0163,Paul Mitchell,53,Male,Washington,DC,2020-05-18,2022-04-24,23,1839.31,79.97,1933,Beauty & Health,1688,982,At-Risk
+CUST0164,Amanda Wright,27,Female,Jacksonville,FL,2024-08-27,2024-12-16,99,19533.69,197.31,19365,Groceries,126,15,Loyal
+CUST0165,William Rivera,50,Female,Chicago,IL,2021-08-23,2022-03-17,10,843.3,84.33,973,Beauty & Health,1226,1020,At-Risk
+CUST0166,Angela Sanchez,43,Other,Albuquerque,NM,2021-06-02,2021-07-09,20,929.2,46.46,1063,Electronics,1308,1271,At-Risk
+CUST0167,Brian Moore,48,Male,Boston,MA,2022-06-13,2023-01-03,36,3315.6,92.1,3165,Groceries,932,728,At-Risk
+CUST0168,Amy White,62,Other,Seattle,WA,2024-07-22,2024-11-07,2,108.9,54.45,130,Groceries,162,54,New
+CUST0169,Michelle Miller,34,Male,Oklahoma City,OK,2024-12-17,2024-12-21,5,278.35,55.67,302,Groceries,14,10,New
+CUST0170,George Lewis,28,Male,Washington,DC,2023-06-13,2024-08-10,13,462.54,35.58,516,Electronics,567,143,Budget
+CUST0171,Samantha Sanchez,26,Female,Fresno,CA,2024-06-28,2024-12-13,100,57734.0,577.34,49484,Toys & Games,186,18,Premium
+CUST0172,William Thomas,27,Other,Boston,MA,2022-01-11,2024-07-15,68,27910.6,410.45,29909,Beauty & Health,1085,169,Premium
+CUST0173,Heather Jones,36,Other,Dallas,TX,2022-12-20,2024-07-06,35,2040.15,58.29,1859,Clothing,742,178,Regular
+CUST0174,Lisa Young,42,Other,Memphis,TN,2023-02-24,2024-03-01,127,62481.46,491.98,67580,Sports & Outdoors,676,305,Premium
+CUST0175,Joshua Hall,41,Female,Fort Worth,TX,2020-09-08,2021-06-12,12,706.8,58.9,819,Toys & Games,1575,1298,At-Risk
+CUST0176,Debra Lee,48,Other,Washington,DC,2020-05-12,2023-06-12,26,2388.1,91.85,2723,Groceries,1694,568,At-Risk
+CUST0177,Angela Anderson,38,Male,Fort Worth,TX,2020-10-11,2021-06-10,39,1051.83,26.97,1074,Beauty & Health,1542,1300,At-Risk
+CUST0178,Larry Rodriguez,56,Other,Philadelphia,PA,2024-07-17,2024-10-04,7,699.79,99.97,761,Books,167,88,New
+CUST0179,Pamela Jones,34,Male,Oklahoma City,OK,2023-08-08,2024-02-07,19,543.97,28.63,547,Groceries,511,328,Budget
+CUST0180,Diane Scott,73,Other,Omaha,NE,2021-01-07,2023-03-04,16,919.2,57.45,1070,Electronics,1454,668,At-Risk
+CUST0181,Jonathan Martinez,46,Female,Austin,TX,2020-11-27,2021-10-23,22,1120.9,50.95,1318,Home & Garden,1495,1165,At-Risk
+CUST0182,Paul Gonzalez,26,Other,Kansas City,MO,2021-07-16,2021-11-21,27,1919.16,71.08,1607,Groceries,1264,1136,At-Risk
+CUST0183,Scott Martinez,24,Male,Raleigh,NC,2024-09-25,2024-12-06,1,86.02,86.02,69,Electronics,97,25,New
+CUST0184,Tyler Torres,44,Female,Columbus,OH,2022-05-03,2023-03-15,9,561.15,62.35,589,Home & Garden,973,657,At-Risk
+CUST0185,Kenneth Walker,35,Male,Louisville,KY,2021-09-01,2024-08-20,7,262.78,37.54,226,Books,1217,133,Budget
+CUST0186,Mark Perez,47,Other,San Jose,CA,2024-09-19,2024-12-19,6,472.44,78.74,540,Books,103,12,New
+CUST0187,Melissa Allen,44,Other,San Antonio,TX,2021-10-15,2024-05-03,99,7637.85,77.15,7483,Groceries,1173,242,Loyal
+CUST0188,Emily Harris,37,Other,Portland,OR,2021-05-23,2024-03-22,81,15449.13,190.73,16815,Sports & Outdoors,1318,284,Loyal
+CUST0189,Amy Allen,26,Female,Tucson,AZ,2024-12-05,2024-06-06,20,218.6,10.93,257,Toys & Games,26,208,Budget
+CUST0190,Margaret Nguyen,18,Female,Houston,TX,2020-04-13,2021-11-10,39,2722.59,69.81,3095,Toys & Games,1723,1147,At-Risk
+CUST0191,Mary Miller,32,Female,Dallas,TX,2024-12-12,2024-05-15,33,3258.75,98.75,3083,Books,19,230,Regular
+CUST0192,Brenda Gonzalez,49,Female,Kansas City,MO,2021-08-14,2024-02-07,158,57202.32,362.04,63252,Home & Garden,1235,328,Premium
+CUST0193,Helen Baker,40,Other,San Diego,CA,2020-09-20,2023-06-15,14,763.56,54.54,853,Beauty & Health,1563,565,At-Risk
+CUST0194,Timothy Carter,21,Male,Fort Worth,TX,2024-12-02,2024-12-18,7,420.07,60.01,343,Groceries,29,13,New
+CUST0195,Gary King,40,Female,San Jose,CA,2023-05-26,2024-09-20,9,208.08,23.12,217,Groceries,585,102,Budget
+CUST0196,Raymond Mitchell,43,Female,Omaha,NE,2021-11-19,2024-09-16,42,3272.22,77.91,3545,Home & Garden,1138,106,Regular
+CUST0197,John White,26,Female,San Diego,CA,2024-10-15,2024-12-28,5,418.7,83.74,456,Electronics,77,3,New
+CUST0198,Dorothy Adams,39,Other,Atlanta,GA,2024-08-28,2024-11-28,1,66.68,66.68,57,Books,125,33,New
+CUST0199,Debra Thomas,38,Male,Atlanta,GA,2023-12-05,2024-02-26,64,4009.6,62.65,3710,Groceries,392,309,Loyal
+CUST0200,Mark Clark,23,Other,Albuquerque,NM,2024-11-22,2024-02-01,18,1380.24,76.68,1413,Toys & Games,39,334,Regular
+CUST0201,Kevin Lopez,42,Female,Mesa,AZ,2024-09-26,2024-12-04,6,444.42,74.07,509,Home & Garden,96,27,New
+CUST0202,Anthony Thomas,45,Female,Kansas City,MO,2024-09-15,2024-10-13,5,408.45,81.69,441,Toys & Games,107,79,New
+CUST0203,George Scott,52,Other,Seattle,WA,2021-08-12,2024-03-03,46,4181.4,90.9,3980,Books,1237,303,Regular
+CUST0204,Tyler Martinez,51,Female,Chicago,IL,2021-08-12,2021-10-31,30,2829.0,94.3,3005,Toys & Games,1237,1157,At-Risk
+CUST0205,Stephen Moore,20,Other,Seattle,WA,2020-10-08,2024-02-25,118,19318.96,163.72,17304,Electronics,1545,310,Loyal
+CUST0206,Shirley Anderson,25,Other,Charlotte,NC,2020-04-17,2024-02-21,18,417.78,23.21,413,Groceries,1719,314,Budget
+CUST0207,Larry Hernandez,44,Female,Albuquerque,NM,2022-09-04,2024-11-29,111,53595.24,482.84,49034,Home & Garden,849,32,Premium
+CUST0208,Tyler Garcia,44,Other,Atlanta,GA,2021-04-20,2024-09-30,6,279.18,46.53,242,Groceries,1351,92,Budget
+CUST0209,Robert Sanchez,44,Female,Jacksonville,FL,2021-08-15,2021-09-22,8,379.04,47.38,394,Beauty & Health,1234,1196,At-Risk
+CUST0210,Gregory Wright,75,Other,Tucson,AZ,2024-12-26,2024-03-09,42,3029.04,72.12,2656,Clothing,5,297,Regular
+CUST0211,Janet Robinson,45,Other,Indianapolis,IN,2024-01-11,2024-04-05,10,963.0,96.3,1075,Sports & Outdoors,355,270,Regular
+CUST0212,Samantha Sanchez,52,Female,Fresno,CA,2021-11-02,2024-02-14,91,13986.7,153.7,12223,Groceries,1155,321,Loyal
+CUST0213,Ashley Smith,50,Female,Memphis,TN,2024-08-30,2024-10-26,5,481.6,96.32,443,Electronics,123,66,New
+CUST0214,Timothy Hall,46,Male,Houston,TX,2023-09-29,2024-03-01,39,2246.79,57.61,2161,Home & Garden,459,305,Regular
+CUST0215,Samantha Jackson,33,Female,Charlotte,NC,2021-03-24,2024-03-09,20,322.6,16.13,354,Beauty & Health,1378,297,Budget
+CUST0216,Larry Walker,47,Other,Columbus,OH,2024-04-09,2024-05-06,48,5211.84,108.58,4340,Toys & Games,266,239,Regular
+CUST0217,Timothy Jones,27,Other,San Diego,CA,2024-07-16,2024-12-03,9,325.53,36.17,330,Groceries,168,28,New
+CUST0218,Jonathan Lewis,34,Male,Columbus,OH,2024-01-08,2024-10-25,41,1565.38,38.18,1571,Electronics,358,67,Regular
+CUST0219,Angela Clark,31,Female,Atlanta,GA,2024-07-15,2024-12-05,8,590.56,73.82,545,Electronics,169,26,New
+CUST0220,James Mitchell,39,Male,Omaha,NE,2020-05-29,2024-01-24,37,2257.37,61.01,1863,Electronics,1677,342,Regular
+CUST0221,William Walker,68,Male,Denver,CO,2022-04-17,2022-07-18,16,1319.04,82.44,1571,Books,989,897,At-Risk
+CUST0222,Ronald Lewis,18,Female,Memphis,TN,2020-06-13,2024-12-15,44,1846.68,41.97,2112,Clothing,1662,16,Regular
+CUST0223,Stephen Sanchez,46,Other,Dallas,TX,2024-01-30,2024-04-24,40,6634.8,165.87,7904,Toys & Games,336,251,Loyal
+CUST0224,Anna Ramirez,18,Other,Memphis,TN,2024-08-13,2024-04-27,12,341.16,28.43,294,Sports & Outdoors,140,248,Budget
+CUST0225,Dennis Carter,31,Male,Chicago,IL,2022-05-08,2023-03-18,9,387.45,43.05,320,Electronics,968,654,At-Risk
+CUST0226,Benjamin Rivera,52,Male,San Francisco,CA,2024-02-25,2024-01-23,35,2432.85,69.51,2471,Electronics,310,343,Regular
+CUST0227,Emily Anderson,38,Other,Atlanta,GA,2021-10-15,2024-10-22,116,19506.56,168.16,21990,Sports & Outdoors,1173,70,Loyal
+CUST0228,Charles Nelson,23,Other,Charlotte,NC,2022-04-26,2024-06-02,27,958.23,35.49,1130,Groceries,980,212,Regular
+CUST0229,Jeffrey Scott,28,Female,Houston,TX,2021-12-06,2024-11-25,17,704.31,41.43,653,Books,1121,36,Budget
+CUST0230,Kenneth Harris,46,Male,Mesa,AZ,2022-08-27,2024-05-03,24,1369.68,57.07,1483,Toys & Games,857,242,Regular
+CUST0231,Brenda Clark,28,Female,Kansas City,MO,2022-12-21,2023-01-24,32,1382.72,43.21,1218,Clothing,741,707,At-Risk
+CUST0232,Melissa Garcia,40,Other,Fort Worth,TX,2020-04-15,2021-10-16,32,2416.96,75.53,2516,Clothing,1721,1172,At-Risk
+CUST0233,Heather Nguyen,38,Other,Kansas City,MO,2021-03-20,2024-09-02,66,11994.18,181.73,11192,Electronics,1382,120,Loyal
+CUST0234,Anthony Mitchell,29,Male,Albuquerque,NM,2021-05-11,2024-12-22,117,18548.01,158.53,17781,Sports & Outdoors,1330,9,Loyal
+CUST0235,Diane Jackson,65,Female,Milwaukee,WI,2024-11-14,2024-12-25,6,268.02,44.67,252,Toys & Games,47,6,New
+CUST0236,Dennis Walker,46,Female,Columbus,OH,2024-10-03,2024-11-12,7,165.62,23.66,189,Groceries,89,49,New
+CUST0237,Larry Nguyen,18,Other,Portland,OR,2021-08-27,2024-03-19,110,30617.4,278.34,29145,Sports & Outdoors,1222,287,Premium
+CUST0238,Katherine Baker,40,Female,Indianapolis,IN,2024-11-03,2024-12-19,8,454.96,56.87,497,Beauty & Health,58,12,New
+CUST0239,Dennis Wright,29,Female,Jacksonville,FL,2024-12-26,2024-10-04,47,6267.45,133.35,7117,Clothing,5,88,Loyal
+CUST0240,Christine Brown,49,Male,Portland,OR,2020-10-08,2023-02-17,22,662.2,30.1,569,Sports & Outdoors,1545,683,At-Risk
+CUST0241,Melissa Brown,27,Other,Albuquerque,NM,2024-12-16,2024-12-31,1,20.53,20.53,20,Electronics,15,0,New
+CUST0242,Dennis Moore,36,Other,Denver,CO,2020-02-05,2024-09-14,170,86183.2,506.96,100309,Clothing,1791,108,Premium
+CUST0243,Shirley Martinez,44,Male,Fort Worth,TX,2022-12-14,2023-02-16,30,1351.5,45.05,1295,Beauty & Health,748,684,At-Risk
+CUST0244,Jacob Torres,49,Male,Charlotte,NC,2021-09-06,2021-11-27,10,320.1,32.01,304,Toys & Games,1212,1130,At-Risk
+CUST0245,Mary Hall,22,Male,Philadelphia,PA,2022-10-20,2024-08-10,144,56391.84,391.61,64466,Clothing,803,143,Premium
+CUST0246,Jennifer Anderson,33,Male,Atlanta,GA,2022-08-31,2023-01-16,10,943.1,94.31,1012,Home & Garden,853,715,At-Risk
+CUST0247,Justin Nelson,31,Male,Jacksonville,FL,2021-10-06,2021-10-22,21,1449.63,69.03,1595,Books,1182,1166,At-Risk
+CUST0248,Kenneth Hernandez,29,Other,San Francisco,CA,2022-03-07,2023-02-16,29,1559.91,53.79,1709,Clothing,1030,684,At-Risk
+CUST0249,George Brown,60,Male,Las Vegas,NV,2024-08-29,2024-12-14,2,94.5,47.25,104,Books,124,17,New
+CUST0250,Michelle Johnson,43,Other,Seattle,WA,2022-07-11,2023-03-19,22,1137.18,51.69,1337,Books,904,653,At-Risk
+CUST0251,Scott Nelson,21,Female,Philadelphia,PA,2024-04-30,2024-11-12,77,13223.21,171.73,14350,Clothing,245,49,Loyal
+CUST0252,Ronald Rivera,49,Other,San Jose,CA,2024-02-23,2024-07-18,30,1873.8,62.46,1567,Home & Garden,312,166,Regular
+CUST0253,Heather Moore,65,Male,Dallas,TX,2020-06-27,2024-04-05,37,2604.8,70.4,2661,Books,1648,270,Regular
+CUST0254,Elizabeth Thompson,51,Other,Philadelphia,PA,2023-05-07,2024-11-02,81,14654.52,180.92,11795,Books,604,59,Loyal
+CUST0255,David Campbell,18,Other,San Francisco,CA,2023-03-17,2024-09-23,20,1833.6,91.68,1591,Home & Garden,655,99,Regular
+CUST0256,Amy Martinez,31,Male,Austin,TX,2022-06-09,2024-05-21,36,2051.28,56.98,2283,Beauty & Health,936,224,Regular
+CUST0257,Ashley Campbell,54,Other,Tucson,AZ,2023-05-01,2024-11-11,22,1566.62,71.21,1338,Electronics,610,50,Regular
+CUST0258,Brian Flores,28,Female,El Paso,TX,2022-06-20,2022-12-08,35,3015.6,86.16,3449,Groceries,925,754,At-Risk
+CUST0259,Nicole Hall,43,Male,Albuquerque,NM,2021-10-05,2024-03-31,35,4101.65,117.19,3759,Toys & Games,1183,275,Regular
+CUST0260,Aaron Thomas,48,Female,Memphis,TN,2021-07-28,2022-09-03,31,1039.74,33.54,1066,Groceries,1252,850,At-Risk
+CUST0261,Larry Johnson,25,Other,Milwaukee,WI,2023-12-21,2024-04-17,19,796.29,41.91,901,Clothing,376,258,Budget
+CUST0262,Jason Baker,37,Female,Dallas,TX,2021-09-12,2022-05-17,24,1785.6,74.4,1939,Books,1206,959,At-Risk
+CUST0263,Brandon Walker,18,Other,Louisville,KY,2022-12-30,2024-09-16,167,63618.65,380.95,71016,Beauty & Health,732,106,Premium
+CUST0264,Stephen Hill,24,Other,Philadelphia,PA,2020-08-11,2024-05-07,16,266.4,16.65,278,Books,1603,238,Budget
+CUST0265,Brian Ramirez,34,Male,New York,NY,2020-07-20,2021-12-31,22,1392.6,63.3,1403,Sports & Outdoors,1625,1096,At-Risk
+CUST0266,Edward Robinson,21,Other,Omaha,NE,2023-11-15,2024-09-13,19,1159.95,61.05,939,Clothing,412,109,Regular
+CUST0267,David Davis,59,Other,San Jose,CA,2021-12-14,2024-06-08,31,2200.38,70.98,1942,Toys & Games,1113,206,Regular
+CUST0268,Richard Lewis,19,Other,Baltimore,MD,2021-10-15,2024-02-04,29,986.58,34.02,1069,Electronics,1173,331,Regular
+CUST0269,Gregory Miller,32,Other,Austin,TX,2021-05-14,2022-10-24,19,1261.41,66.39,1176,Books,1327,799,At-Risk
+CUST0270,Sandra Sanchez,39,Other,Jacksonville,FL,2021-01-16,2022-11-02,35,1913.45,54.67,2095,Sports & Outdoors,1445,790,At-Risk
+CUST0271,Jeffrey Harris,56,Male,Columbus,OH,2021-02-25,2024-05-22,14,1147.44,81.96,1284,Groceries,1405,223,Regular
+CUST0272,Betty Robinson,19,Male,Indianapolis,IN,2023-10-05,2024-09-07,43,5027.99,116.93,4652,Books,453,115,Regular
+CUST0273,Emma Davis,53,Female,Washington,DC,2024-10-26,2024-11-17,5,467.45,93.49,484,Groceries,66,44,New
+CUST0274,Steven Martin,38,Male,Jacksonville,FL,2022-02-03,2024-12-21,19,1443.43,75.97,1396,Groceries,1062,10,Regular
+CUST0275,Jeffrey Lopez,25,Female,Mesa,AZ,2024-12-25,2024-12-30,3,193.17,64.39,192,Groceries,6,1,New
+CUST0276,Laura Flores,44,Male,Washington,DC,2020-01-20,2024-09-05,57,4977.24,87.32,4746,Toys & Games,1807,117,Loyal
+CUST0277,Nicholas Clark,40,Other,Baltimore,MD,2022-09-27,2024-03-26,15,1213.35,80.89,1356,Sports & Outdoors,826,280,Regular
+CUST0278,Kimberly Anderson,30,Other,Denver,CO,2020-12-10,2024-08-22,46,4454.18,96.83,4927,Clothing,1482,131,Regular
+CUST0279,Andrew Roberts,38,Other,Boston,MA,2024-11-16,2024-11-18,8,509.68,63.71,609,Clothing,45,43,New
+CUST0280,Katherine Carter,32,Male,Nashville,TN,2024-11-26,2024-01-17,19,389.69,20.51,446,Clothing,35,349,Budget
+CUST0281,Jessica Roberts,39,Male,Columbus,OH,2024-07-18,2024-10-28,32,3439.68,107.49,3591,Books,166,64,Regular
+CUST0282,Sarah Wilson,46,Male,Houston,TX,2023-03-13,2024-06-28,108,10729.8,99.35,10896,Beauty & Health,659,186,Loyal
+CUST0283,Emily Jackson,58,Other,Seattle,WA,2022-11-19,2023-05-11,14,492.38,35.17,541,Books,773,600,At-Risk
+CUST0284,Kimberly Adams,21,Male,Dallas,TX,2021-05-26,2021-10-22,28,2439.92,87.14,2695,Books,1315,1166,At-Risk
+CUST0285,Pamela Green,65,Female,Portland,OR,2024-10-05,2024-12-01,2,141.38,70.69,162,Clothing,87,30,New
+CUST0286,Maria Moore,18,Other,Boston,MA,2022-07-20,2024-09-06,30,2471.4,82.38,2836,Clothing,895,116,Regular
+CUST0287,Jacob Green,36,Other,Washington,DC,2024-10-07,2024-02-02,22,570.02,25.91,676,Sports & Outdoors,85,333,Budget
+CUST0288,Michelle Jackson,45,Female,Kansas City,MO,2024-11-25,2024-12-03,10,881.9,88.19,983,Electronics,36,28,New
+CUST0289,Frank Robinson,41,Male,San Diego,CA,2024-10-22,2024-03-21,172,58330.36,339.13,69806,Books,70,285,Premium
+CUST0290,Patrick Rodriguez,29,Other,Nashville,TN,2020-11-21,2024-05-20,51,7733.64,151.64,6961,Beauty & Health,1501,225,Loyal
+CUST0291,Katherine Hernandez,35,Male,Louisville,KY,2023-07-05,2024-06-05,12,326.04,27.17,272,Clothing,545,209,Budget
+CUST0292,Kathleen Jones,31,Male,Omaha,NE,2021-04-08,2024-09-22,173,21531.58,124.46,23216,Clothing,1363,100,Premium
+CUST0293,Jeffrey Hall,30,Male,Albuquerque,NM,2020-05-25,2021-09-05,32,1014.4,31.7,1138,Clothing,1681,1213,At-Risk
+CUST0294,Kenneth Rodriguez,49,Female,Dallas,TX,2023-08-06,2024-12-12,19,687.04,36.16,704,Groceries,513,19,Regular
+CUST0295,Dennis Wilson,42,Other,San Jose,CA,2022-04-23,2024-11-11,38,4081.2,107.4,3406,Clothing,983,50,Regular
+CUST0296,Jessica Nguyen,28,Other,Memphis,TN,2021-12-20,2024-08-07,80,13660.0,170.75,12281,Clothing,1107,146,Loyal
+CUST0297,Brandon Hill,49,Other,Raleigh,NC,2021-08-06,2024-12-19,43,7684.1,178.7,8170,Home & Garden,1243,12,Loyal
+CUST0298,Nicole Allen,41,Male,Louisville,KY,2021-08-28,2024-11-26,46,7807.58,169.73,8725,Sports & Outdoors,1221,35,Loyal
+CUST0299,Joseph Thomas,48,Female,Raleigh,NC,2024-07-19,2024-12-01,1,98.95,98.95,116,Groceries,165,30,New
+CUST0300,Justin Clark,46,Female,Mesa,AZ,2023-10-30,2024-03-29,40,4636.0,115.9,5137,Electronics,428,277,Regular
+CUST0301,Mary Taylor,27,Male,Chicago,IL,2024-07-16,2024-10-25,9,386.28,42.92,419,Books,168,67,New
+CUST0302,Stephanie Garcia,30,Other,Mesa,AZ,2023-01-06,2024-11-11,19,1044.43,54.97,965,Sports & Outdoors,725,50,Regular
+CUST0303,Karen Wright,47,Female,Louisville,KY,2020-05-15,2022-02-09,35,2791.25,79.75,3178,Electronics,1691,1056,At-Risk
+CUST0304,Sharon Davis,45,Female,Raleigh,NC,2020-04-22,2024-06-07,62,4756.64,76.72,5152,Electronics,1714,207,Loyal
+CUST0305,George King,37,Other,Indianapolis,IN,2020-12-07,2024-07-09,56,9238.32,164.97,10618,Clothing,1485,175,Loyal
+CUST0306,Patricia Perez,39,Female,Seattle,WA,2022-12-08,2024-02-02,13,500.37,38.49,515,Clothing,754,333,Budget
+CUST0307,Angela White,54,Male,Tucson,AZ,2024-11-23,2024-12-03,6,195.48,32.58,216,Clothing,38,28,New
+CUST0308,Angela Smith,30,Male,New York,NY,2021-05-15,2024-01-24,100,11096.0,110.96,12961,Groceries,1326,342,Loyal
+CUST0309,Robert Scott,45,Other,Portland,OR,2021-04-04,2022-02-27,23,1293.06,56.22,1406,Home & Garden,1367,1038,At-Risk
+CUST0310,Pamela White,35,Male,Fresno,CA,2020-04-17,2021-04-19,22,1877.26,85.33,2238,Books,1719,1352,At-Risk
+CUST0311,Cynthia Jackson,35,Female,Oklahoma City,OK,2020-06-25,2024-10-10,176,21794.08,123.83,19184,Home & Garden,1650,82,Premium
+CUST0312,Ashley Robinson,52,Female,Omaha,NE,2022-10-07,2024-04-10,22,889.24,40.42,798,Electronics,816,265,Budget
+CUST0313,Patricia Anderson,48,Other,Washington,DC,2020-01-20,2021-12-06,8,655.36,81.92,622,Home & Garden,1807,1121,At-Risk
+CUST0314,Shirley Thomas,48,Female,Tucson,AZ,2020-05-02,2024-03-13,75,5476.5,73.02,6399,Books,1704,293,Loyal
+CUST0315,Melissa Robinson,54,Other,Philadelphia,PA,2023-04-04,2024-02-18,21,322.14,15.34,363,Clothing,637,317,Budget
+CUST0316,Linda Ramirez,38,Other,Dallas,TX,2024-08-30,2024-10-06,5,440.35,88.07,515,Books,123,86,New
+CUST0317,Jerry Lee,46,Female,Baltimore,MD,2021-07-10,2024-04-29,7,334.18,47.74,285,Clothing,1270,246,Budget
+CUST0318,Nancy Lewis,33,Female,Oklahoma City,OK,2022-04-12,2024-03-02,108,11897.28,110.16,13183,Toys & Games,994,304,Loyal
+CUST0319,Dorothy Davis,42,Male,Austin,TX,2024-07-11,2024-12-17,29,3026.73,104.37,3265,Electronics,173,14,Regular
+CUST0320,Michelle Martinez,36,Male,San Francisco,CA,2021-12-29,2024-07-21,105,7019.25,66.85,6454,Groceries,1098,163,Loyal
+CUST0321,Stephanie Lewis,39,Other,Kansas City,MO,2021-05-26,2024-02-18,178,30067.76,168.92,33601,Clothing,1315,317,Premium
+CUST0322,Diane Anderson,45,Male,Fort Worth,TX,2024-08-13,2024-07-24,155,69660.1,449.42,81852,Clothing,140,160,Premium
+CUST0323,Dorothy Jones,27,Male,Phoenix,AZ,2024-08-20,2024-12-11,3,82.08,27.36,93,Beauty & Health,133,20,New
+CUST0324,Cynthia Brown,65,Male,Atlanta,GA,2022-06-06,2024-07-21,103,6605.39,64.13,7089,Groceries,939,163,Loyal
+CUST0325,Lisa Moore,24,Female,Baltimore,MD,2024-12-14,2024-03-17,12,1023.24,85.27,1071,Home & Garden,17,289,Regular
+CUST0326,Larry Walker,22,Male,Philadelphia,PA,2024-09-10,2024-10-29,3,160.62,53.54,169,Sports & Outdoors,112,63,New
+CUST0327,Anna Johnson,53,Female,Washington,DC,2022-09-09,2024-10-05,20,475.2,23.76,487,Beauty & Health,844,87,Budget
+CUST0328,Lisa Johnson,48,Female,Raleigh,NC,2021-03-24,2024-01-16,27,952.29,35.27,1139,Beauty & Health,1378,350,Regular
+CUST0329,Sandra Hernandez,46,Male,San Francisco,CA,2023-09-07,2024-05-03,13,407.55,31.35,455,Electronics,481,242,Budget
+CUST0330,Donald Torres,46,Female,Washington,DC,2024-09-14,2024-03-29,10,194.6,19.46,180,Beauty & Health,108,277,Budget
+CUST0331,Patricia Rivera,37,Other,Washington,DC,2020-10-18,2022-05-17,20,1755.0,87.75,1972,Toys & Games,1535,959,At-Risk
+CUST0332,Matthew Young,26,Male,Philadelphia,PA,2024-07-15,2024-09-12,10,375.0,37.5,378,Electronics,169,110,New
+CUST0333,Raymond Gonzalez,38,Male,El Paso,TX,2024-01-08,2024-03-31,30,1060.8,35.36,911,Groceries,358,275,Regular
+CUST0334,Shirley White,29,Male,Boston,MA,2023-12-13,2024-12-05,17,568.48,33.44,531,Beauty & Health,384,26,Budget
+CUST0335,Daniel Campbell,50,Female,Tucson,AZ,2023-08-22,2024-06-11,62,9858.62,159.01,10103,Beauty & Health,497,203,Loyal
+CUST0336,Emma Lopez,36,Female,Nashville,TN,2024-02-12,2024-12-18,77,5992.91,77.83,6541,Books,323,13,Loyal
+CUST0337,Tyler Torres,27,Male,Jacksonville,FL,2021-10-13,2022-05-27,14,1333.5,95.25,1141,Clothing,1175,949,At-Risk
+CUST0338,Kevin Hernandez,33,Other,Philadelphia,PA,2024-08-09,2024-12-28,82,10047.46,122.53,9103,Sports & Outdoors,144,3,Loyal
+CUST0339,George Taylor,43,Male,New York,NY,2020-04-08,2024-07-16,19,746.7,39.3,886,Books,1728,168,Budget
+CUST0340,Ronald Thompson,30,Other,Memphis,TN,2024-07-26,2024-11-25,10,720.8,72.08,774,Groceries,158,36,New
+CUST0341,Robert Jackson,27,Male,Oklahoma City,OK,2024-09-05,2024-09-18,2,94.68,47.34,109,Groceries,117,104,New
+CUST0342,Larry Garcia,41,Female,Raleigh,NC,2023-06-10,2024-09-04,5,136.25,27.25,144,Books,570,118,Budget
+CUST0343,Richard Perez,41,Male,Fort Worth,TX,2022-04-18,2024-12-22,110,17719.9,161.09,19349,Home & Garden,988,9,Loyal
+CUST0344,Kenneth Thomas,31,Male,Houston,TX,2022-03-15,2024-10-19,22,958.98,43.59,826,Beauty & Health,1022,73,Budget
+CUST0345,Elizabeth Jackson,31,Other,Raleigh,NC,2022-09-10,2024-04-12,84,11117.4,132.35,9653,Home & Garden,843,263,Premium
+CUST0346,Gary Davis,41,Female,Louisville,KY,2022-08-22,2023-04-29,24,764.16,31.84,777,Groceries,862,612,At-Risk
+CUST0347,Ronald White,19,Male,Baltimore,MD,2020-04-01,2024-05-14,38,2730.68,71.86,2431,Home & Garden,1735,231,Regular
+CUST0348,Karen Carter,19,Other,San Antonio,TX,2024-07-22,2024-10-18,9,478.08,53.12,527,Sports & Outdoors,162,74,New
+CUST0349,Deborah King,28,Female,Mesa,AZ,2024-12-23,2024-12-30,10,905.3,90.53,896,Clothing,8,1,New
+CUST0350,Carolyn Williams,35,Other,Atlanta,GA,2022-11-24,2024-10-19,49,2120.23,43.27,2501,Toys & Games,768,73,Regular
+CUST0351,Nancy Wilson,42,Male,Dallas,TX,2020-03-28,2024-08-04,50,9918.0,198.36,9661,Groceries,1739,149,Loyal
+CUST0352,Dorothy Lee,57,Other,Phoenix,AZ,2020-06-27,2022-08-30,33,2191.2,66.4,2503,Toys & Games,1648,854,At-Risk
+CUST0353,Mary Hall,49,Other,Omaha,NE,2022-12-06,2023-06-24,34,1136.96,33.44,977,Clothing,756,556,At-Risk
+CUST0354,Justin Roberts,35,Male,Denver,CO,2021-12-05,2023-01-29,24,1289.52,53.73,1282,Toys & Games,1122,702,At-Risk
+CUST0355,Kimberly Sanchez,37,Male,Raleigh,NC,2023-10-26,2024-12-21,162,22456.44,138.62,25955,Beauty & Health,432,10,Premium
+CUST0356,Michael Mitchell,24,Female,Seattle,WA,2022-02-01,2024-01-11,15,640.5,42.7,590,Home & Garden,1064,355,Budget
+CUST0357,Rachel Baker,37,Male,Charlotte,NC,2020-10-02,2021-08-05,36,2989.8,83.05,2775,Books,1551,1244,At-Risk
+CUST0358,Elizabeth Gonzalez,34,Female,Columbus,OH,2024-10-13,2024-12-14,9,804.42,89.38,907,Groceries,79,17,New
+CUST0359,Jack Allen,42,Female,Dallas,TX,2024-05-17,2024-09-25,67,13627.13,203.39,15672,Sports & Outdoors,228,97,Premium
+CUST0360,Ashley Williams,27,Female,Houston,TX,2022-01-08,2022-07-30,25,1315.75,52.63,1296,Books,1088,885,At-Risk
+CUST0361,Jessica Baker,44,Male,San Francisco,CA,2022-02-01,2024-09-07,24,668.16,27.84,791,Toys & Games,1064,115,Budget
+CUST0362,George Thompson,57,Male,Indianapolis,IN,2024-12-24,2024-12-25,5,111.0,22.2,91,Sports & Outdoors,7,6,New
+CUST0363,Gregory Anderson,36,Other,Columbus,OH,2021-07-05,2023-05-03,34,2159.0,63.5,2473,Electronics,1275,608,At-Risk
+CUST0364,Thomas Adams,43,Male,Raleigh,NC,2024-07-03,2024-08-29,5,343.35,68.67,404,Home & Garden,181,124,New
+CUST0365,Ronald Thompson,46,Female,Indianapolis,IN,2021-03-22,2024-08-26,29,2637.55,90.95,2979,Books,1380,127,Regular
+CUST0366,James Allen,32,Other,Boston,MA,2024-11-21,2024-12-29,10,426.1,42.61,457,Toys & Games,40,2,New
+CUST0367,Kimberly Green,40,Female,Seattle,WA,2021-06-18,2024-12-01,136,28615.76,210.41,28813,Sports & Outdoors,1292,30,Premium
+CUST0368,Brandon Sanchez,38,Other,Oklahoma City,OK,2020-10-13,2022-10-21,9,667.44,74.16,800,Home & Garden,1540,802,At-Risk
+CUST0369,Stephanie Harris,39,Other,Chicago,IL,2021-01-23,2022-01-09,22,1682.34,76.47,1775,Toys & Games,1438,1087,At-Risk
+CUST0370,Christine Thompson,27,Other,Nashville,TN,2020-12-14,2023-04-23,19,893.57,47.03,883,Home & Garden,1478,618,At-Risk
+CUST0371,Brenda Carter,38,Male,El Paso,TX,2023-09-02,2024-02-15,12,290.52,24.21,318,Home & Garden,486,320,Budget
+CUST0372,Brian White,44,Female,Omaha,NE,2021-08-25,2024-08-25,17,1229.95,72.35,1410,Clothing,1224,128,Regular
+CUST0373,Anthony Allen,56,Male,Memphis,TN,2024-11-13,2024-12-02,7,170.24,24.32,194,Groceries,48,29,New
+CUST0374,Carol Clark,50,Other,Milwaukee,WI,2020-10-20,2021-09-08,19,1584.98,83.42,1577,Groceries,1533,1210,At-Risk
+CUST0375,Linda Smith,65,Female,Seattle,WA,2021-03-04,2024-03-27,46,4544.8,98.8,4525,Clothing,1398,279,Regular
+CUST0376,Sharon Green,28,Female,Louisville,KY,2022-05-28,2024-09-01,89,5397.85,60.65,5470,Beauty & Health,948,121,Loyal
+CUST0377,Michelle Carter,49,Other,Fort Worth,TX,2020-02-06,2020-02-14,23,965.31,41.97,1110,Home & Garden,1790,1782,At-Risk
+CUST0378,Deborah Allen,40,Other,Nashville,TN,2020-12-08,2024-02-03,45,4578.75,101.75,4195,Beauty & Health,1484,332,Loyal
+CUST0379,Debra Rodriguez,66,Female,Tucson,AZ,2022-01-05,2024-04-06,20,2306.6,115.33,2692,Books,1091,269,Regular
+CUST0380,Donald Campbell,27,Male,Columbus,OH,2024-02-12,2024-01-12,189,38009.79,201.11,35981,Electronics,323,354,Premium
+CUST0381,Samantha Taylor,27,Other,Houston,TX,2023-05-01,2024-01-25,16,1421.12,88.82,1148,Clothing,610,341,Regular
+CUST0382,Ronald Davis,30,Other,Indianapolis,IN,2022-08-29,2024-12-25,19,921.31,48.49,989,Electronics,855,6,Regular
+CUST0383,Samuel Miller,18,Other,Sacramento,CA,2021-07-06,2024-11-14,48,4467.36,93.07,4322,Clothing,1274,47,Regular
+CUST0384,Helen Davis,31,Female,San Diego,CA,2024-07-28,2024-12-02,4,274.88,68.72,305,Sports & Outdoors,156,29,New
+CUST0385,Jason Jackson,28,Male,Chicago,IL,2023-01-27,2024-09-11,23,2114.62,91.94,2098,Sports & Outdoors,704,111,Regular
+CUST0386,Christine Garcia,39,Male,Atlanta,GA,2023-10-02,2024-09-09,98,56421.54,575.73,62730,Clothing,456,113,Premium
+CUST0387,Richard Taylor,42,Other,Charlotte,NC,2022-07-24,2024-05-31,13,371.41,28.57,311,Groceries,891,214,Budget
+CUST0388,Emily White,62,Other,Oklahoma City,OK,2022-05-22,2023-06-04,15,481.8,32.12,531,Electronics,954,576,At-Risk
+CUST0389,Sarah Nelson,50,Other,Austin,TX,2021-11-04,2024-07-02,172,99491.68,578.44,90271,Clothing,1153,182,Premium
+CUST0390,Carol Lopez,30,Male,Louisville,KY,2022-03-30,2024-08-21,27,2840.67,105.21,3056,Toys & Games,1007,132,Regular
+CUST0391,Katherine Hernandez,26,Male,Dallas,TX,2020-04-30,2021-03-22,14,786.8,56.2,815,Toys & Games,1706,1380,At-Risk
+CUST0392,Ronald Roberts,44,Female,Los Angeles,CA,2024-11-01,2024-12-16,56,7147.28,127.63,7113,Books,60,15,Loyal
+CUST0393,William Taylor,20,Other,Oklahoma City,OK,2020-01-26,2024-12-26,43,4260.44,99.08,4391,Sports & Outdoors,1801,5,Regular
+CUST0394,Christine Perez,61,Other,Sacramento,CA,2020-07-14,2022-12-17,23,1406.22,61.14,1498,Books,1631,745,At-Risk
+CUST0395,Brenda Flores,53,Male,New York,NY,2023-08-10,2024-03-21,104,18599.36,178.84,21217,Groceries,509,285,Loyal
+CUST0396,Nicholas Lee,31,Male,El Paso,TX,2021-07-23,2024-01-26,189,42884.1,226.9,45342,Books,1257,340,Premium
+CUST0397,David Robinson,18,Female,Atlanta,GA,2022-07-06,2022-08-20,39,2282.67,58.53,1934,Toys & Games,909,864,At-Risk
+CUST0398,John Miller,55,Female,Portland,OR,2020-03-14,2024-10-12,22,220.22,10.01,184,Home & Garden,1753,80,Budget
+CUST0399,Brenda Wilson,36,Other,Milwaukee,WI,2021-11-29,2022-12-06,11,948.64,86.24,1079,Beauty & Health,1128,756,At-Risk
+CUST0400,Helen Hill,54,Female,Boston,MA,2024-12-31,2024-12-31,2,55.58,27.79,59,Electronics,0,0,New
+CUST0401,Samantha Jackson,18,Other,Sacramento,CA,2022-02-04,2024-12-25,16,545.92,34.12,472,Groceries,1061,6,Regular
+CUST0402,Maria Campbell,30,Female,San Antonio,TX,2021-06-04,2023-02-19,20,781.4,39.07,915,Books,1306,681,At-Risk
+CUST0403,Aaron Gonzalez,38,Other,El Paso,TX,2020-08-08,2024-07-31,45,8537.85,189.73,9690,Clothing,1606,153,Loyal
+CUST0404,Laura Robinson,38,Other,Omaha,NE,2022-10-29,2024-03-09,20,203.4,10.17,222,Books,794,297,Budget
+CUST0405,Kathleen Allen,32,Male,Omaha,NE,2020-12-21,2023-01-08,16,524.32,32.77,557,Beauty & Health,1471,723,At-Risk
+CUST0406,Deborah Clark,46,Other,San Francisco,CA,2024-09-09,2024-10-29,6,585.84,97.64,574,Groceries,113,63,New
+CUST0407,Nicole Hall,24,Other,Fresno,CA,2021-09-04,2024-12-25,110,19855.0,180.5,21537,Sports & Outdoors,1214,6,Loyal
+CUST0408,Helen Rivera,36,Female,Washington,DC,2023-10-09,2024-03-08,62,8094.1,130.55,8723,Beauty & Health,449,298,Loyal
+CUST0409,Heather Thompson,39,Other,Albuquerque,NM,2023-04-08,2024-10-19,18,665.46,36.97,770,Home & Garden,633,73,Budget
+CUST0410,Jeffrey Smith,44,Other,San Antonio,TX,2020-02-21,2022-04-11,17,492.66,28.98,405,Home & Garden,1775,995,At-Risk
+CUST0411,Daniel Jackson,47,Other,Indianapolis,IN,2020-10-26,2024-02-01,14,254.24,18.16,258,Beauty & Health,1527,334,Budget
+CUST0412,Susan Flores,23,Other,Kansas City,MO,2021-04-04,2023-05-04,32,1370.24,42.82,1526,Home & Garden,1367,607,At-Risk
+CUST0413,Michael Harris,18,Female,Portland,OR,2024-06-02,2024-12-16,15,729.45,48.63,599,Home & Garden,212,15,Budget
+CUST0414,Diane Lewis,54,Male,Boston,MA,2024-03-26,2024-10-28,109,17808.42,163.38,15646,Sports & Outdoors,280,64,Loyal
+CUST0415,Matthew Baker,42,Male,Jacksonville,FL,2020-12-21,2024-09-20,17,1087.15,63.95,1056,Home & Garden,1471,102,Regular
+CUST0416,Scott Taylor,28,Male,El Paso,TX,2022-08-13,2024-12-29,59,3869.81,65.59,4533,Electronics,871,2,Loyal
+CUST0417,Frank Flores,58,Other,Nashville,TN,2022-10-01,2024-10-20,22,535.04,24.32,595,Beauty & Health,822,72,Budget
+CUST0418,Lisa King,39,Male,Fresno,CA,2024-08-10,2024-11-24,9,566.64,62.96,474,Sports & Outdoors,143,37,New
+CUST0419,Samuel Perez,53,Female,Boston,MA,2021-08-24,2022-04-04,38,3790.5,99.75,4281,Electronics,1225,1002,At-Risk
+CUST0420,George Lewis,38,Male,San Francisco,CA,2020-03-22,2024-12-15,81,9184.59,113.39,10272,Clothing,1745,16,Loyal
+CUST0421,Anna Campbell,64,Female,Los Angeles,CA,2022-11-24,2024-07-10,42,4294.5,102.25,4200,Electronics,768,174,Regular
+CUST0422,Katherine Gonzalez,60,Female,Fresno,CA,2020-06-17,2024-02-19,20,2349.0,117.45,2605,Electronics,1658,316,Regular
+CUST0423,Mark Nelson,34,Other,Columbus,OH,2024-11-06,2024-12-16,18,781.74,43.43,689,Books,55,15,Budget
+CUST0424,Barbara Mitchell,50,Other,San Jose,CA,2020-02-18,2024-08-23,15,172.8,11.52,143,Groceries,1778,130,Budget
+CUST0425,Brenda Jones,46,Other,Charlotte,NC,2021-06-13,2022-08-04,32,1882.56,58.83,1810,Beauty & Health,1297,880,At-Risk
+CUST0426,Benjamin Davis,55,Other,New York,NY,2023-08-06,2024-11-12,76,36697.36,482.86,37953,Clothing,513,49,Premium
+CUST0427,Eric Miller,25,Female,Nashville,TN,2023-05-27,2024-02-14,28,2768.36,98.87,2699,Books,584,321,Regular
+CUST0428,Patricia Walker,46,Male,Mesa,AZ,2021-03-26,2021-08-12,33,2797.08,84.76,3188,Home & Garden,1376,1237,At-Risk
+CUST0429,Charles Martin,51,Other,Boston,MA,2020-01-23,2023-03-01,17,582.08,34.24,466,Books,1804,671,At-Risk
+CUST0430,David Martin,18,Male,Washington,DC,2024-08-24,2024-12-07,9,282.6,31.4,246,Home & Garden,129,24,New
+CUST0431,Lisa Nelson,22,Other,Houston,TX,2024-10-09,2024-10-08,99,14874.75,150.25,12335,Clothing,83,84,Loyal
+CUST0432,Betty Campbell,18,Other,Tucson,AZ,2021-11-08,2024-07-01,18,1627.56,90.42,1454,Home & Garden,1149,183,Regular
+CUST0433,Anthony Lee,34,Female,Baltimore,MD,2024-09-23,2024-12-10,5,377.4,75.48,324,Beauty & Health,99,21,New
+CUST0434,Jeffrey Hernandez,47,Male,Oklahoma City,OK,2021-05-19,2021-12-31,35,1601.25,45.75,1511,Beauty & Health,1322,1096,At-Risk
+CUST0435,Cynthia Lewis,57,Female,Nashville,TN,2022-09-24,2022-11-18,19,1394.98,73.42,1161,Home & Garden,829,774,At-Risk
+CUST0436,Sarah Wright,38,Male,Indianapolis,IN,2020-06-05,2020-11-06,9,798.48,88.72,840,Books,1670,1516,At-Risk
+CUST0437,Margaret Williams,59,Other,Indianapolis,IN,2023-01-18,2024-10-03,20,723.2,36.16,621,Books,713,89,Budget
+CUST0438,Tyler Nguyen,20,Other,Denver,CO,2020-10-01,2024-08-25,104,13671.84,131.46,13107,Electronics,1552,128,Loyal
+CUST0439,Raymond Baker,18,Male,Fresno,CA,2020-10-14,2024-08-16,10,171.7,17.17,202,Groceries,1539,137,Budget
+CUST0440,Kathleen Thompson,37,Male,Charlotte,NC,2024-04-08,2024-09-06,12,150.12,12.51,142,Electronics,267,116,Budget
+CUST0441,Jonathan White,42,Female,Albuquerque,NM,2022-07-20,2024-01-24,6,295.32,49.22,274,Home & Garden,895,342,Budget
+CUST0442,Dorothy Nguyen,37,Other,Atlanta,GA,2020-12-22,2022-01-11,32,1676.8,52.4,1779,Clothing,1470,1085,At-Risk
+CUST0443,Ronald Anderson,18,Other,Louisville,KY,2024-09-29,2024-11-12,8,667.28,83.41,770,Electronics,93,49,New
+CUST0444,Sarah Lewis,36,Male,Charlotte,NC,2024-07-20,2024-11-28,5,184.6,36.92,161,Beauty & Health,164,33,New
+CUST0445,Jessica Nelson,21,Male,Portland,OR,2024-09-23,2024-12-24,2,117.04,58.52,116,Sports & Outdoors,99,7,New
+CUST0446,Gregory Clark,46,Male,San Francisco,CA,2024-07-12,2024-08-13,10,673.9,67.39,575,Electronics,172,140,New
+CUST0447,Charles Brown,42,Male,Indianapolis,IN,2021-01-03,2022-06-16,33,2308.35,69.95,2367,Electronics,1458,929,At-Risk
+CUST0448,Janet Nelson,25,Female,Philadelphia,PA,2021-03-19,2022-06-21,38,3421.9,90.05,2970,Books,1383,924,At-Risk
+CUST0449,Scott Roberts,31,Male,Fresno,CA,2024-09-06,2024-09-27,6,562.74,93.79,584,Clothing,116,95,New
+CUST0450,Deborah Rodriguez,24,Male,Los Angeles,CA,2021-02-18,2024-09-24,104,16204.24,155.81,18320,Clothing,1412,98,Loyal
+CUST0451,Raymond Hill,37,Male,Mesa,AZ,2022-10-27,2024-03-01,51,6503.01,127.51,5541,Electronics,796,305,Loyal
+CUST0452,Diane Baker,50,Other,Las Vegas,NV,2022-12-05,2023-03-22,31,2808.91,90.61,3030,Books,757,650,At-Risk
+CUST0453,Kathleen Roberts,25,Female,Washington,DC,2023-04-21,2024-12-22,113,8325.84,73.68,7106,Toys & Games,620,9,Loyal
+CUST0454,David Jackson,44,Other,Mesa,AZ,2022-04-16,2024-05-11,11,112.42,10.22,123,Electronics,990,234,Budget
+CUST0455,Jessica King,31,Male,Memphis,TN,2024-12-15,2024-12-21,6,316.26,52.71,266,Books,16,10,New
+CUST0456,Paul Taylor,27,Other,Las Vegas,NV,2023-03-02,2024-07-06,24,504.48,21.02,540,Sports & Outdoors,670,178,Budget
+CUST0457,Aaron Scott,36,Female,Jacksonville,FL,2022-01-28,2024-10-13,45,3309.3,73.54,3955,Beauty & Health,1068,79,Regular
+CUST0458,Edward Mitchell,24,Male,San Diego,CA,2024-03-11,2024-04-27,19,785.08,41.32,926,Clothing,295,248,Budget
+CUST0459,Stephanie Perez,30,Other,Houston,TX,2020-11-25,2024-07-18,40,6904.4,172.61,7797,Toys & Games,1497,166,Loyal
+CUST0460,Sharon Garcia,22,Male,Indianapolis,IN,2021-03-30,2022-04-13,13,918.84,70.68,1001,Books,1372,993,At-Risk
+CUST0461,Jonathan Jackson,63,Other,Raleigh,NC,2024-07-15,2024-08-28,8,440.96,55.12,388,Home & Garden,169,125,New
+CUST0462,Aaron Hill,38,Other,Sacramento,CA,2023-12-01,2024-04-28,118,9880.14,83.73,8046,Sports & Outdoors,396,247,Loyal
+CUST0463,Daniel Garcia,28,Female,Louisville,KY,2021-12-24,2024-12-08,17,445.74,26.22,392,Electronics,1103,23,Budget
+CUST0464,William Garcia,40,Other,Denver,CO,2024-01-27,2024-10-13,23,550.16,23.92,652,Home & Garden,339,79,Budget
+CUST0465,Anthony Robinson,36,Female,Atlanta,GA,2020-01-10,2024-05-13,62,7254.0,117.0,6112,Clothing,1817,232,Loyal
+CUST0466,Carol Davis,35,Other,Indianapolis,IN,2024-11-15,2024-12-21,5,377.7,75.54,448,Toys & Games,46,10,New
+CUST0467,Alexander Perez,45,Female,Milwaukee,WI,2023-04-16,2024-01-15,20,293.0,14.65,242,Sports & Outdoors,625,351,Budget
+CUST0468,Sandra Lee,47,Female,Washington,DC,2022-11-23,2024-10-01,5,190.15,38.03,172,Home & Garden,769,91,Budget
+CUST0469,Benjamin Mitchell,31,Female,Phoenix,AZ,2023-02-09,2024-04-01,100,10394.0,103.94,9223,Home & Garden,691,274,Loyal
+CUST0470,Maria Baker,30,Male,Tucson,AZ,2024-02-18,2024-04-12,70,11407.2,162.96,13107,Sports & Outdoors,317,263,Loyal
+CUST0471,Ashley Flores,34,Female,San Jose,CA,2024-05-14,2024-02-24,55,10385.65,188.83,11116,Toys & Games,231,311,Loyal
+CUST0472,Heather Wright,18,Male,Albuquerque,NM,2024-10-04,2024-12-22,6,356.34,59.39,425,Home & Garden,88,9,New
+CUST0473,Heather Allen,18,Female,Louisville,KY,2024-08-26,2024-09-27,1,62.06,62.06,60,Electronics,127,95,New
+CUST0474,Edward Baker,55,Male,Milwaukee,WI,2024-07-31,2024-12-10,8,362.0,45.25,290,Sports & Outdoors,153,21,New
+CUST0475,Richard Lee,59,Female,Indianapolis,IN,2021-01-18,2024-10-07,26,1334.84,51.34,1319,Beauty & Health,1443,85,Regular
+CUST0476,Amy Ramirez,34,Male,Portland,OR,2023-12-06,2024-07-09,33,3527.37,106.89,3216,Groceries,391,175,Regular
+CUST0477,Pamela Baker,45,Male,San Antonio,TX,2024-09-08,2024-12-19,4,257.72,64.43,294,Sports & Outdoors,114,12,New
+CUST0478,Jerry Martinez,42,Female,New York,NY,2020-12-27,2024-08-03,103,8119.49,78.83,9396,Beauty & Health,1465,150,Loyal
+CUST0479,Kenneth Taylor,75,Other,Atlanta,GA,2020-04-07,2022-07-01,14,1075.06,76.79,885,Home & Garden,1729,914,At-Risk
+CUST0480,Frank Miller,52,Female,El Paso,TX,2024-09-05,2024-10-21,6,388.98,64.83,456,Home & Garden,117,71,New
+CUST0481,Jason Davis,36,Female,Raleigh,NC,2021-02-11,2024-10-22,46,4070.54,88.49,4133,Home & Garden,1419,70,Regular
+CUST0482,Benjamin Allen,25,Female,Baltimore,MD,2024-12-26,2024-02-10,34,2897.82,85.23,2855,Groceries,5,325,Regular
+CUST0483,Samantha Perez,18,Female,Atlanta,GA,2022-04-08,2023-06-16,12,371.16,30.93,347,Beauty & Health,998,564,At-Risk
+CUST0484,Emily Rivera,40,Female,Raleigh,NC,2023-08-13,2024-07-21,27,2967.03,109.89,3300,Beauty & Health,506,163,Regular
+CUST0485,Jonathan Lewis,28,Female,Austin,TX,2021-01-11,2024-01-12,9,351.99,39.11,374,Clothing,1450,354,Budget
+CUST0486,Edward Miller,19,Male,Phoenix,AZ,2024-12-04,2024-08-30,110,7429.4,67.54,8234,Clothing,27,123,Loyal
+CUST0487,Helen Martinez,29,Male,Memphis,TN,2021-09-25,2024-04-27,71,11591.46,163.26,11327,Groceries,1193,248,Loyal
+CUST0488,Nancy Johnson,23,Male,Washington,DC,2024-10-28,2024-06-15,100,12541.0,125.41,14401,Home & Garden,64,199,Loyal
+CUST0489,Sarah Hall,59,Other,Jacksonville,FL,2024-11-29,2024-12-28,10,548.0,54.8,578,Home & Garden,32,3,New
+CUST0490,Kathleen Wright,49,Male,Philadelphia,PA,2022-06-23,2022-11-27,31,1733.52,55.92,1494,Electronics,922,765,At-Risk
+CUST0491,Heather Rodriguez,37,Female,Denver,CO,2022-08-18,2024-09-30,62,27908.06,450.13,27817,Toys & Games,866,92,Premium
+CUST0492,Tyler Ramirez,57,Female,Raleigh,NC,2021-04-18,2024-01-04,45,2863.35,63.63,2762,Books,1353,362,Regular
+CUST0493,Daniel Rivera,39,Other,Memphis,TN,2024-08-23,2024-07-12,24,1288.08,53.67,1248,Sports & Outdoors,130,172,Regular
+CUST0494,Raymond Hall,26,Other,Seattle,WA,2024-09-11,2024-12-03,9,762.3,84.7,735,Clothing,111,28,New
+CUST0495,Emily Davis,57,Other,Milwaukee,WI,2023-06-19,2024-08-19,74,11697.18,158.07,11659,Beauty & Health,561,134,Loyal
+CUST0496,Michael Wright,45,Male,Jacksonville,FL,2020-07-28,2024-05-24,128,23042.56,180.02,22474,Electronics,1617,221,Premium
+CUST0497,Karen Smith,24,Female,Columbus,OH,2021-12-01,2024-08-03,79,13430.0,170.0,13421,Beauty & Health,1126,150,Loyal
+CUST0498,Robert Perez,35,Male,San Jose,CA,2024-07-15,2024-09-21,7,179.97,25.71,177,Sports & Outdoors,169,101,New
+CUST0499,Paul Harris,26,Male,San Diego,CA,2021-05-24,2022-06-22,36,1567.44,43.54,1877,Sports & Outdoors,1317,923,At-Risk
+CUST0500,Tyler Miller,20,Other,Columbus,OH,2024-10-30,2024-11-23,5,474.5,94.9,409,Electronics,62,38,New
