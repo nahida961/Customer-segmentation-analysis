@@ -216,19 +216,7 @@ Full analysis: [`insights/recommendations.md`](insights/recommendations.md)
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use, modify, and distribute.
-
----
-
 ## 👤 Author
 
-**[Your Name]**  
-Data Analyst | SQL · Python · Excel  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
-
----
-
-*⭐ If this project helped you, please consider giving it a star!*
+**Nahida Banoo** — BSc (Hons) Computer Science, University of Delhi  
+Research: Financial Fraud Detection using Topological Data Analysis(TDA) (Research Paper, 2026)
